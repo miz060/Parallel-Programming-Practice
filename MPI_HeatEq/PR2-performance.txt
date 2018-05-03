@@ -1,0 +1,30 @@
+Name:  Mingcheng Zhu
+PID:   A92047564
+Email: miz060@ucsd.edu
+Date:  Jan 28, 2018
+
+PR2-performance
+
+-----------------------------------------------------------------
+process#    size      heat2d_row_cpu_time    heat2d_col_cpu_time |
+1p          500       3.63                   3.4                 |
+1p          1000      12.35                  15.67               |
+1p          2000      49.99                  49.79               |
+-----------------------------------------------------------------|
+2p          500       1.58                   1.53                |
+2p          1000      5.16                   5.18                |
+2p          2000      21.59                  21.73               |
+-----------------------------------------------------------------|
+4p          500       9.58                   6.37                |
+4p          1000      10                     11.06               |
+4p          2000      16.58                  23.52               |
+-----------------------------------------------------------------|
+8p          500       7.14                   9.82                |
+8p          1000      16.12                  14.19               |
+8p          2000      18.63                  18.21               |
+----------------------------------------------------------------
+
+I think when the problem size is small, it is not always good to
+introduce more processors, as the tramission time between processes
+may become the dominating part in the cpu-time.
+

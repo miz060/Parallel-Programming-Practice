@@ -1,10 +1,8 @@
 /**
- * CSE 160: Programming Assignment 3
  * File name: misc.c
  * File description: define helper method for mmmw to reemove redundancy
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Feb 10, 2018
  */
 #include <stdio.h>

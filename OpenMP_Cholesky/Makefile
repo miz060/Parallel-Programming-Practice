@@ -1,4 +1,4 @@
-# Mingcheng Zhu, A92047564, zhumc11@gmail.com
+# Mingcheng Zhu, zhumc11@gmail.com
 
 CC = gcc
 CFLAGS = -g

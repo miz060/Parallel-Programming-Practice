@@ -1,10 +1,8 @@
 /**
- * CSE 160: Programming Assignment 3
  * File name: mmmw.c
  * File description: block matrix multiplication with master-worker algo
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Feb 10, 2018
  */
 #include <stdio.h>

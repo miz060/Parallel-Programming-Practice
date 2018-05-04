@@ -1,5 +1,4 @@
-# Makefile for CSE160 PA4
-# Mingcheng Zhu, A92047564, miz060@ucsd.edu
+# Mingcheng Zhu, zhumc11@gmail.com
 
 SOURCES = heat2d.c heat2d_solver.c 
 CC = gcc

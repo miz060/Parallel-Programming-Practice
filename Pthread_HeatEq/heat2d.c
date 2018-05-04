@@ -6,13 +6,11 @@
 # include "heat2d_solver.h" 
 
 /** 
- * CSE 160: Programming Assignment 4
  * File name: heat2d.c
  * File description: row decomposition version of the heat equation program
  *                   parallelism achieved through pthread.
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Feb 25, 2018
  */
 

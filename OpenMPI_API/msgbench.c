@@ -4,14 +4,12 @@
 #include <pthread.h>
 #include <assert.h>
 #include <string.h>
-#include "cs160mp.h"
+#include "mp.h"
 /** 
- * CSE 160: Programming Assignment 5
  * File name: msgbench.c
  * File description: msgbench test for the implemented message passing API
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Mar 4, 2018
  */
 

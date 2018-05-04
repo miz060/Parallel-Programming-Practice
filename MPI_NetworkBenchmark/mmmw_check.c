@@ -2,7 +2,6 @@
  * Sample matrix multiplication in C 
  * Author: Philip Papadopoulos
  * Email: ppapadopoulos@ucsd.edu
- * UCSD Course: cse160 
  */
 
 #include <stdio.h>

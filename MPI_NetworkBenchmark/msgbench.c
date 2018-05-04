@@ -1,10 +1,8 @@
 /**
- * CSE 160: Programming Assignment 3
  * File name: msgbench.c
  * File description: benchmark message passing
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Feb 10, 2018
  */
 #include <stdlib.h>

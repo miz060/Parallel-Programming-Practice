@@ -1,11 +1,9 @@
 /** 
- * CSE 160: Programming Assignment 2
  * File name: misc.h
  * File description: define helper method for heat2d programs to remove redundancy.
  *                   header file for misc.c
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Jan 28, 2018
  */
 #define FALSE 0

@@ -6,14 +6,12 @@
 #include "heat2d_solver.h"
 
 /** 
- * CSE 160: Programming Assignment 4
  * File name: heat2d_solver.c
  * File description: defines the solver function for heat2d.c.
  *                   use row decomposition to do the calculation.
  *                   parallelism achieved through pthread.
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Feb 25, 2018
  */
 

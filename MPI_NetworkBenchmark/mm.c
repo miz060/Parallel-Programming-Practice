@@ -2,12 +2,10 @@
  * Sample matrix multiplication in C 
  * Author: Philip Papadopoulos
  * Email: ppapadopoulos@ucsd.edu
- * UCSD Course: cse160 
  */
 
 /* Modified: Mingcheng Zhu
- * Email: miz060@ucsd.edu
- * PID:   A92047564
+ * Email: zhumc11@gmail.com
  * Dtae:  Feb 10, 2016
  */
 

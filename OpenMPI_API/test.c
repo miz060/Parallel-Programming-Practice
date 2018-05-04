@@ -22,7 +22,7 @@
 #include <pthread.h>
 #include <assert.h>
 #include <string.h>
-#include "cs160mp.h"
+#include "mp.h"
 
 #define TAG 9
 

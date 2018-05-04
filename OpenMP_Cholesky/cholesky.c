@@ -5,14 +5,11 @@
 #include <math.h>
 #include <string.h>
 #include <omp.h>
-#include "cs160validate.h"
 /** 
- * CSE 160: Programming Assignment 6
  * File name: cholesky.c
  * File description: paralleized non-block cholesky LU factorization
- * Name:  Mingcheng Zhu, Dingcheng Hu
- * PID:   A92047564, A92090168
- * Email: miz060@ucsd.edu, dih015@ucsd.edu
+ * Name:  Mingcheng Zhu
+ * Email: zhumc11@gmail.com
  * Date:  Mar 18, 2018
  */
 #define ARGS 3
@@ -231,7 +228,6 @@ int main(int argc, char* argv[]) {
     printf("solution validates\n");
   else
     printf("solution is invalid, %d elements above threshold\n",badcount);
-  cs160validate(A,L,n,THRESH);
   free(A);
   free(L);
   return badcount;

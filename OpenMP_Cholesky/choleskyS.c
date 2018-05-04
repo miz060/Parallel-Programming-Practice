@@ -4,7 +4,6 @@
 #include <time.h>
 #include <math.h>
 #include <string.h>
-#include "cs160validate.h"
 
 #define ARGS 2
 #define MIN(a,b) (((a)<(b))?(a):(b))
@@ -223,7 +222,6 @@ int main(int argc, char* argv[]) {
 		printf("solution validates\n");
 	else
 		printf("solution is invalid, %d elements above threshold\n",badcount);
-	cs160validate(A,L,n,THRESH);
 	free(A);
 	free(L);
 	return badcount;

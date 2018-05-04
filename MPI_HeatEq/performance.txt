@@ -1,9 +1,8 @@
 Name:  Mingcheng Zhu
-PID:   A92047564
-Email: miz060@ucsd.edu
+Email: zhumc11@gmail.com
 Date:  Jan 28, 2018
 
-PR2-performance
+performance
 
 -----------------------------------------------------------------
 process#    size      heat2d_row_cpu_time    heat2d_col_cpu_time |

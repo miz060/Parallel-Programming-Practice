@@ -1,5 +1,4 @@
-# Makefile for CSE160 PA2
-# Mingcheng Zhu, A92047564, miz060@ucsd.edu
+# Mingcheng Zhu, zhumc11@gmail.com
 CC = cc
 
 default: heat2d

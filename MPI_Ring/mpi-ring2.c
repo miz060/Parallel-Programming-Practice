@@ -1,10 +1,8 @@
 /** 
- * CSE 160: Programming Assignment 1
  * File name: mpi-ring2.c
  * File description: practice for mpi package
  * Name:  Mingcheng Zhu
- * PID:   A92047564
- * Email: miz060@ucsd.edu
+ * Email: zhumc11@gmail.com
  * Date:  Jan 19, 2018
  */
 #include <stdio.h>

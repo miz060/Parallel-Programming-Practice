@@ -1,12 +1,7 @@
 /** @file 
- * \brief a small set of validation functions for strings 
- * \author Philip Papadopoulos
- * \email ppapadopoulos@ucsd.edu
- * \date 11 Jan 2018
- *
- * \turnin by Mingcheng Zhu
- * \pid A92047564
- * \email miz060@ucsd.edu
+ * \brief a small set of validation functions for strings
+ * \author Mingcheng Zhu
+ * \email zhumc11@gmail.com
  * \date 19 Jan 2018
 */
 #include <stdio.h>

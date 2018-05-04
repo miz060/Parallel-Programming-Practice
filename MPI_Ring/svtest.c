@@ -1,7 +1,7 @@
 /** @file 
  * \brief svtest.c - a very simple input validator  
- * \author Philip Papadopoulos
- * \email ppapadopoulos@ucsd.edu
+ * \author Mingcheng Zhu
+ * \email zhumc11@gmail.com
  * \date 14 Jan 2018
 */
 #include <stdio.h>

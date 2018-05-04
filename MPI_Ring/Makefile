@@ -1,4 +1,3 @@
-# Sample Makefile for CS160
 CC = cc
 
 default: svtest 
